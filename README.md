@@ -9,7 +9,7 @@ Joguinho desenvolvido durante o curso da Dio.me
 
 # Tecnologias utilizadas:
 
-Git v.2.41.0
-NodeJS v16.20.2
-VSCode v1.85.2
-Extensão Live Server
+- Git v.2.41.0
+- NodeJS v16.20.2
+- SCode v1.85.2
+- Extensão Live Server
